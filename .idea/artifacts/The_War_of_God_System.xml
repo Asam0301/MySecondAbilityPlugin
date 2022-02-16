@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="The_War_of_God_System">
+    <output-path>$PROJECT_DIR$/../Server/plugins</output-path>
+    <root id="archive" name="The_War_of_God_System.jar">
+      <element id="module-output" name="PluginProject" />
+    </root>
+  </artifact>
+</component>

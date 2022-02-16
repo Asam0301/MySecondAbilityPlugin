@@ -1,0 +1,10 @@
+main: ServerPlugin.main
+name: The_War_of_God_System
+version: 1.0
+
+commands:
+  update:
+  letme:
+  circle:
+
+api-version: 1.17
